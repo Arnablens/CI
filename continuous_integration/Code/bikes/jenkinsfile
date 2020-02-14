@@ -38,7 +38,7 @@ node {
                     def uploadSpec= """{
                         "files": [{
                         "pattern": "/root/.jenkins/workspace/CI/continuous_integration/Code/bikes/target/*.war",
-                        "target": "bikestest"}]
+                        "target": "bikes"}]
                     }"""
         server.upload(uploadSpec)
         
