@@ -1,1 +1,1 @@
-# mindtree-devops-30Jan2020
+This is CI SCM. This is used for defining the continuous integration part.
